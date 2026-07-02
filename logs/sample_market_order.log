@@ -1,0 +1,3 @@
+{"timestamp": "2026-07-02T07:00:00+00:00", "level": "INFO", "logger": "bot.orders", "message": "Prepared order payload", "event": "order_request", "params": {"symbol": "BTCUSDT", "side": "BUY", "type": "MARKET", "quantity": "0.001"}}
+{"timestamp": "2026-07-02T07:00:00+00:00", "level": "INFO", "logger": "bot.orders", "message": "Dry-run order response", "event": "order_response", "response": {"dryRun": true, "orderId": "DRY-RUN", "status": "SIMULATED", "executedQty": "0", "avgPrice": "0", "transactTime": "2026-07-02T07:00:00+00:00", "request": {"symbol": "BTCUSDT", "side": "BUY", "type": "MARKET", "quantity": "0.001"}}}
+
